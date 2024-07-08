@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Inam ul haq azad
-- 👀 I’m interested in 
+- 👀 I’m interested in applying ML to solve real-world applications
 - 🌱 I’m currently learning Computational immunology
 - 💞️ I’m looking to collaborate on Bioinfomrmatics related problems.
 - 📫 How to reach me at inamulhaq.haq798@gmail.com
